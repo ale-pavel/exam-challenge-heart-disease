@@ -1,5 +1,9 @@
 *.xlsx
 *.zip
+instructions.txt
+note.txt
+train.csv
+test.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
